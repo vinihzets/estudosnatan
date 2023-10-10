@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588865522963",
+    "project_id": "auth-clean-arch-290bc",
+    "storage_bucket": "auth-clean-arch-290bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588865522963:android:d5061882488ce9177e5ee6",
+        "android_client_info": {
+          "package_name": "com.example.clean_arch_auth_with_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ZUvDjWaoRtuCOKzJvKg2DFq1uHq-pbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

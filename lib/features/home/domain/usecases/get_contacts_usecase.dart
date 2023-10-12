@@ -1,3 +1,5 @@
+import '../../data/model/contacts_model.dart';
+
 abstract class GetContactsUsecase {
-  Future getContacts();
+  Future<List<ContactModel>> getContacts();
 }
